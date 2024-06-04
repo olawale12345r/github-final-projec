@@ -26,3 +26,10 @@
    s=`expr $p \* $t \* $r / 100`
    echo "The simple interest is: "
    echo $s
+
+   # Multiply 5 by 2
+   result=$((5 * 2))
+   echo "The result of multiplying 5 by 2 is: $result"
+
+
+
